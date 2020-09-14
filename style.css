@@ -10,8 +10,6 @@ a:active,
 a:visited {
     text-decoration: none;
 }
-
- 
 .inner {
     width: 90%;
     margin: 0px auto;
@@ -19,4 +17,9 @@ a:visited {
 }
 .title {
     font-size:50px;
+}
+.img-fit {
+    height:auto;
+    width:100%;
+    object-fit: cover;
 }

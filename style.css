@@ -10,3 +10,7 @@ a:active,
 a:visited {
     text-decoration: none;
 }
+
+.title {
+    font-size:50px;
+}

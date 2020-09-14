@@ -11,8 +11,12 @@ a:visited {
     text-decoration: none;
 }
 
+ 
 .inner {
     width: 90%;
     margin: 0px auto;
     position: relative;
+}
+.title {
+    font-size:50px;
 }

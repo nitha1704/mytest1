@@ -18,6 +18,7 @@ a:visited {
 .title {
     font-size:50px;
     text-decoration: underline;
+    margin:0px;
     color:red;
 }
 .img-fit {

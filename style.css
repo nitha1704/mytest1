@@ -27,4 +27,8 @@ a:visited {
     width:100%;
     object-fit: cover;
 }
+.ul-cleargap {
+    list-style: none;
+    padding:0px;
+}
 
